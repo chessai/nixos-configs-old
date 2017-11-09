@@ -104,8 +104,8 @@ else " no gui
   endif
 endif
 
-let g:haskellmode_completion_ghc = 1
-autocmd FileType haskell setlocal omnifunc=necoghc#omnifunc
+#let g:haskellmode_completion_ghc = 1
+#autocmd FileType haskell setlocal omnifunc=necoghc#omnifunc
 
 map <Leader>n :NERDTreeToggle<CR>
 
