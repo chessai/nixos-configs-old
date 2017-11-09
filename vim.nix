@@ -22,9 +22,10 @@ let
         vim-repeat
         snipmate
         surround
-        neco-ghc
+        #neco-ghc
         vim-nix
         fugitive
+        vim-stylish-haskell
       ];
 
     };
